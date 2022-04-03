@@ -46,7 +46,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
-    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [! 
+    [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
     ![ts](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label)  
     
 - Frontend : <br />
