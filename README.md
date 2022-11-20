@@ -39,7 +39,7 @@ My goal is to solve real life problems using technology and create an impact :sp
 - 🔭 &nbsp; Currently learning about DevOps and AWS.
 - 🤝 &nbsp; Open for collaborations in web development projects. 
 - 🌐 &nbsp; Visit my [porfolio website](https://sahil811.github.io/portfolio-v2/) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1sFcH_l7nH_Z0gINu4oNRE2qRfajxul26/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1o6V1oLOT9RHnDAsb9dxn-w8XGeXAKdtO/view).
 - :ski: &nbsp; When not coding, I binge watch shows, listen to music, do wrokout or badminton.
 - 🌱 &nbsp; Would love to hear about your project and big idea. 
 
