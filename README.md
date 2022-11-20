@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://sahil811.github.io/portfolio-v2/"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sahil811.github.io/portfolio-v2/"/></a>
-  <a href="https://www.linkedin.com/in/sahil-siddiqui-bab66419a/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-siddiqui-bab66419a/"/></a>
+  <a href="https://www.linkedin.com/in/sahil-siddiqui811/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-siddiqui-bab66419a/"/></a>
   <a href="mailto:sahilsiddiqui.dev@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sahilsiddiqui.dev@gmail.com"/></a>
   <a href="https://twitter.com/sahilDevMonk"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sahilDevMonk"/></a>
 </p>
